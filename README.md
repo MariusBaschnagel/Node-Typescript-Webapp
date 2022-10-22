@@ -1,13 +1,13 @@
 # Node-Typescript-Webapp
 
 ## Description
-This project is my personal approach of learning web-development with node. Since I already achieved some web-development knowledge using Pythons web framework Django, some HTML, css and js, node with typescript is another way of improving these skills even further. If you have any tipps or tricks improving my code, feel free to let me know as an issue or something similar.
+This project is my personal approach of learning web-development with node. Since I already achieved some web-development knowledge using Pythons web framework Django, some HTML, css and js, node with typescript is another way of improving these skills even further. If you have any tipps or tricks to improve my code, feel free to open an issue.
 
 ## Installation
 Under construction :)
 
 ## Contributing
-This is a personal project, so there's not much to contributed. BUT if you got any tipps of improving my code or ideas for new features to extend the codebase, feel free to add an issue or comment on closed ones. I appreciate any kind of help!
+This is a personal project, so there's not much to contribute. BUT if you got any tipps of improving my code or ideas for new features to extend the codebase, feel free to add an issue or comment on closed ones. I appreciate any kind of help!
 ## Project status
 Since I don't have that much free time at the moment, I work on this project from time to time.
 
