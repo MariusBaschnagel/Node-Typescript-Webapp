@@ -22,7 +22,11 @@ if (!process.env.PORT) {
  }
  
  const PORT: number = parseInt(process.env.PORT as string, 10);
- 
+ const MYSQL_HOST: string = process.env.MYSQL_HOST || 'localhost';
+ const MYSQL_DB: string = process.env.MYSQL_DB || 'node';
+ const MYSQL_USER: string = process.env.MYSQL_USER || 'user';
+ const MYSQL_PASSWORD: string = process.env.MYSQL_PASSWORD || 'pw123';
+
  const app = express();
 
 
